@@ -12,7 +12,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
 precipitation, season, hour of the day, etc. can affect the rental behaviors. The core data set is related to  
 the two-year historical log corresponding to years 2017 and 2018 which is publicly available in Seoul Bike Sharing Demand - UCI Machine Learning Repository 
-
+The Link is https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
 # Associated Task
 Regression: 
 		Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
