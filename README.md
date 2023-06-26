@@ -14,8 +14,7 @@ precipitation, season, hour of the day, etc. can affect the rental behaviors. Th
 the two-year historical log corresponding to years 2017 and 2018 which is publicly available in Seoul Bike Sharing Demand - UCI Machine Learning Repository 
 The Link is https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
 # Associated Task
-Regression: 
-		Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
+Regression: Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
   
 # Attritbute Information
 Date : year-month-day
